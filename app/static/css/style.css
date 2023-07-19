@@ -1,0 +1,19 @@
+.navbar-brand{
+    color: var(--secondary-secondary-6, #0C6967);
+
+/* Heading Style/H5 */
+font-family: Proxima Nova;
+font-size: 25px;
+font-style: normal;
+font-weight: 700;
+line-height: 120%; /* 30px */
+}
+
+.nav-menu>a{
+    padding-right:15px;
+    
+}
+
+.nav-menu{
+    font-color: #6B788E;
+}
